@@ -1,0 +1,2 @@
+When trying to open html in browser use this (will open in Chrome):
+    <explorer.exe index.html>
